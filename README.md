@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Strexxlol
-- 👀 I’m interested in Discord Bot Development and Gaming!
-- 🌱 I’m currently learning Discord.py/js.
+- 👀 I’m interested in Discord Bot Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord bots.
-- 📫 You can reach me by contacting me on Discord: @strexylol
+- 📫 You can reach me by contacting me on Discord: @strexx.gg
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I smell nice
 
